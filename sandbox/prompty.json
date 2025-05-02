@@ -1,0 +1,8 @@
+{
+  "default": {
+    "type": "azure",
+    "api_version": "2024-08-01-preview",
+    "azure_deployment": "gpt-4o-mini",
+    "azure_endpoint": "${env:AZURE_OPENAI_ENDPOINT}"
+  }
+}
